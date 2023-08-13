@@ -1,0 +1,10 @@
+{
+    "name":"censorify",
+    "version":"0.1.0",
+    "author":"Naveen",
+    "description": "Censors the words",
+    "main": "censortext",
+    "dependencies":{
+        "node":"*"
+    }
+}
