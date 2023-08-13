@@ -4,6 +4,11 @@
     "author":"Naveen",
     "description": "Censors the words",
     "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NaveenLoki13/censorify.git"
+    },
+    "keywords": ["censor"],
     "dependencies":{
         "node":"*"
     }
